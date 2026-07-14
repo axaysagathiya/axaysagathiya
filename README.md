@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 | [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) | 2 | 1 | 0 | 1 |
 | [deepnote/deepnote](https://github.com/deepnote/deepnote) | 2 | 1 | 0 | 1 |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 1 | 1 | 0 | 0 |
-| [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | 1 | 1 | 0 | 0 |
 | [codenotary/immudb](https://github.com/codenotary/immudb) | 1 | 1 | 0 | 0 |
-| [anza-xyz/agave](https://github.com/anza-xyz/agave) | 1 | 0 | 0 | 1 |
-| [zulip/zulip](https://github.com/zulip/zulip) | 1 | 0 | 0 | 1 |
 | [malbeclabs/doublezero](https://github.com/malbeclabs/doublezero) | 1 | 1 | 0 | 0 |
+| [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | 1 | 1 | 0 | 0 |
+| [zulip/zulip](https://github.com/zulip/zulip) | 1 | 0 | 0 | 1 |
+| [anza-xyz/agave](https://github.com/anza-xyz/agave) | 1 | 0 | 0 | 1 |
 
 <!-- END_STATS -->
